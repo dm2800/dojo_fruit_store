@@ -19,7 +19,3 @@ if __name__=="__main__":
     app.run(debug=True)    
 
 
-
-    # print(request.form['first_name'])
-    # print(request.form['last_name'])
-    # print(request.form['student_id'])
